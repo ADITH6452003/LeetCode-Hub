@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0455-assign-cookies) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
