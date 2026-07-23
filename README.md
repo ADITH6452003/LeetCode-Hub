@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
@@ -80,4 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0067-add-binary) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
