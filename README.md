@@ -90,4 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0067-add-binary) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
