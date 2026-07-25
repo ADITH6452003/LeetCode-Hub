@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0881-boats-to-save-people) |
+| [3536-maximum-product-of-two-digits](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0067-add-binary) |
+| [3536-maximum-product-of-two-digits](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
