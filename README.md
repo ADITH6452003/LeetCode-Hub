@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0881-boats-to-save-people) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0067-add-binary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
