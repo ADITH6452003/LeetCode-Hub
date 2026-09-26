@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/2104-sum-of-subarray-ranges) |
+| [3525-find-x-value-of-array-ii](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0067-add-binary) |
+| [3525-find-x-value-of-array-ii](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
