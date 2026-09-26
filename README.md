@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0881-boats-to-save-people) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0239-sliding-window-maximum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1096-brace-expansion-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
@@ -119,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0547-number-of-provinces) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
