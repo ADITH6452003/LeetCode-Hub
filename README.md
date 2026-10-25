@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0881-boats-to-save-people) |
+| [1254-number-of-closed-islands](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1254-number-of-closed-islands) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/2104-sum-of-subarray-ranges) |
@@ -136,16 +137,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -178,5 +182,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
