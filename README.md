@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0014-longest-common-prefix) |
+| [0040-combination-sum-ii](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0078-subsets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ADITH6452003/LeetCode-Hub/tree/master/0301-remove-invalid-parentheses) |
